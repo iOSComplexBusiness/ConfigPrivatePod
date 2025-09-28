@@ -13,5 +13,11 @@ git add .
 git commit -am ${NewVersionNumber}
 git tag ${NewVersionNumber}
 git push origin master --tags
-pod repo push XDWMediatorProject __ProjectName__.podspec --verbose --allow-warnings --use-libraries --use-modular-headers
+pod repo push zy-specs __ProjectName__.podspec --verbose --allow-warnings --use-libraries --use-modular-headers
 
+#  pod repo list 
+# ...
+#zy-specs
+#- Type: git (unknown)
+#- URL:  https://github.com/iOSComplexBusiness/PrivatePods
+#- Path: /Users/yestin/.cocoapods/repos/zy-specs
