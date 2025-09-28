@@ -22,3 +22,14 @@ ConfigPrivatePod
 Project Name就是A，要跟你的A工程的目录名一致。  
 HTTPS Repo、SSH Repo网页上都有，  
 Home Page URL就填你A Repo网页的URL就好了  
+
+
+
+谢谢 
+
+* https://github.com/xdwly/ConfigPrivatePod
+> 提供了 ConfigPrivatePod 所有文件
+
+* https://www.jianshu.com/p/03103698d9da
+> 提供 upload.sh中 具体修改的位置
+
